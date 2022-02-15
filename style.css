@@ -1,0 +1,29 @@
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  width:auto;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: left;
+    padding: 14px;
+    text-decoration: none;
+ 
+}
+.top {
+  color: green;
+  margin: 1px;
+ }
+
+.box{
+  width: 250px;
+  height: 100px;
+  background-color: blue;
+  margin: 10px;
+  display: inline-BLOCK;
+ 
+ }
